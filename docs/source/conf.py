@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "MatFeaLib"
+copyright = "2024, MatFeaLib Developers"
+author = "MatFeaLib Developers"
 
 
 # -- General configuration ---------------------------------------------------
