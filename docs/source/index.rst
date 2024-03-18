@@ -22,10 +22,6 @@ MatFeaLib
 **MatFeaLib** (**Mat**\erials **Fea**\ture **Lib**\rary) is a Python library for generating elemental features from materials composition. These representations are often called “descriptors” and they can be used in machine learning and data analysis in the field of Materials Science. To get started you can check the basic tutorial.
 
 
-.. note::
-
-   This project is under active development.
-
 
 .. toctree::
    :maxdepth: 2
