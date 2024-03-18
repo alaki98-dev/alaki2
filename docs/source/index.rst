@@ -1,25 +1,37 @@
-.. include:: ../README.rst
+.. MatFeaLib documentation master file, created by
+   sphinx-quickstart on Mon Mar 18 21:25:58 2024.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-Welcome to Lumache's documentation!
-===================================
+.. Welcome to MatFeaLib's documentation!
+.. =====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
+.. image:: ./_static/MatFeaLib-logo-04.png
+   :width: 903 px
+   :alt: MatFeaLib
+   :align: center
 
-   This project is under active development.
+|
 
-Contents
---------
+MatFeaLib
+============
+
+
+**MatFeaLib** (**Mat**\erials **Fea**\ture **Lib**\rary) is a Python library for generating elemental features from materials composition. These representations are often called “descriptors” and they can be used in machine learning and data analysis in the field of Materials Science. To get started you can check the basic tutorial.
+
+
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   Home <self>
-   usage
-   api
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
