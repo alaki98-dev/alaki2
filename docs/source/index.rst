@@ -27,6 +27,25 @@ MatFeaLib
    This project is under active development.
 
 
+MatFeaLib capable of fetching atomic features for a given single compound, list of compounds and aslo datasets in the form of pandas dataframe format.
+
+It can present atomic features based on the initial values of avalable atomic species in the compound or statistical measures for any given inputed materials.
+
+MatFeaLib currently incluce the following atomic feature collections:
+
+.. list-table::
+   :widths: 80 10
+   :header-rows: 1
+
+   * - Feature Collection
+     - Features
+   * - Mendeleev
+     - ✓
+   * - Matminer
+     - ✓
+   * - Pymatgen
+     - ✓
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
