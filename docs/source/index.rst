@@ -18,8 +18,7 @@
 MatFeaLib
 ============
 
-
-**MatFeaLib** (**Mat**\erials **Fea**\ture **Lib**\rary) is a Python library for generating elemental features from materials composition. These representations are often called “descriptors” and they can be used in machine learning and data analysis in the field of Materials Science. To get started you can check the basic tutorial.
+**MatFeaLib** (**Mat**\erials **Fea**\ture **Lib**\rary) is a Python library for generating elemental features from materials composition. These representations are often called “descriptors” and can be used in machine learning and data analysis in Materials Science. To get started you can check the basic tutorial.
 
 
 .. note::
@@ -27,11 +26,13 @@ MatFeaLib
    This project is under active development.
 
 
-MatFeaLib capable of fetching atomic features for a given single compound, list of compounds and aslo datasets in the form of pandas dataframe format.
+It has the following capabilities:
 
-It can present atomic features based on the initial values of avalable atomic species in the compound or statistical measures for any given inputed materials.
+- Generation of primary atomic features of any given compound, a given list of materials, and  a given pandas dataframe
+- Generation of atomic features in statistical form 
 
-MatFeaLib currently incluce the following atomic feature collections:
+
+MatFeaLib currently includes the following atomic feature collections:
 
 .. list-table::
    :widths: 80 10
@@ -50,6 +51,13 @@ MatFeaLib currently incluce the following atomic feature collections:
    :maxdepth: 2
    :caption: Contents:
 
+It can also be used by any user-specified atomic feature collection. 
+
+Get started
+-----------
+
+- Installation and Setup
+- Run MatFeaLib Executables
 
 
 Indices and tables
