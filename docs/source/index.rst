@@ -47,17 +47,20 @@ MatFeaLib currently includes the following atomic feature collections:
    * - Pymatgen
      - ✓
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
 It can also be used by any user-specified atomic feature collection. 
 
 Get started
 -----------
+- :doc:`Installation and Setup </installation>`
+- :doc:`Tutorial </usage>`
 
-- Installation and Setup
-- Run MatFeaLib Executables
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting started
+
+   installation
+   usage
 
 
 Indices and tables
@@ -66,3 +69,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+
+
+
+
