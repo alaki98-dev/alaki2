@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MatFeaLib'
-copyright = '2024, MatFeaLib Developers'
+project = 'limache'
+copyright = '2024, Developers'
 author = 'MatFeaLib Developers'
 
 # -- General configuration ---------------------------------------------------
@@ -46,5 +46,5 @@ html_theme_options = {
  #   "titles_only": False,
 }
 # html_favicon = "MatFeaLib-favicon.ico"
-html_logo = './_static/MatFeaLib-logo-0323.png'
+# html_logo = './_static/logo-0323.png'
 
