@@ -45,6 +45,6 @@ html_theme_options = {
  #   "includehidden": True,
  #   "titles_only": False,
 }
-# html_favicon = "MatFeaLib-favicon.ico"
+# html_favicon = "favicon.ico"
 # html_logo = './_static/logo-0323.png'
 
