@@ -8,7 +8,7 @@
 
 project = 'limache'
 copyright = '2024, Developers'
-author = 'MatFeaLib Developers'
+author = ' Developers'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
